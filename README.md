@@ -24,7 +24,7 @@ Web Developer | UI/UX Designer | Google Certified IT Support Professional
 ------------------------------------------------------------------------
 
 * 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [lifeofkingk@gmial.com](mailto:lifeofkingk@gmial.com)
+* ✉️  You can contact me at [lifeofkingk@gmail.com](mailto:lifeofkingk@gmail.com)
 * 🧠  I'm currently learning as much as I possibly can..😅
 * 🤝  I'm open to collaborating on Web Design and UI/UX projects
 * ⚡  I love playing the guitar(still learning though👍)
