@@ -30,7 +30,7 @@ Web Developer | UI/UX Designer | Google Certified IT Support Professional
 * ⚡  I love playing the guitar(still learning though👍)
 <!-- * 🖥️  See my portfolio at [Portfolio](http://josephukwenya.github.io/portfolio/) -->
 
-### Skills
+### Languages and Technologies
 
 
 <p align="left">
