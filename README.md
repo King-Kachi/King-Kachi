@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kachi.
-You can call me KingK 😎
+You can call me KingK <img src="https://emojis.slackmojis.com/emojis/images/1643514812/8272/blob-cool.gif?1643514812" width="40"/>
 =============================================================================================================================
 
 Web Developer | UI/UX Designer | Google Certified IT Support Professional
