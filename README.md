@@ -23,7 +23,7 @@ You can call me KingK <img src="https://emojis.slackmojis.com/emojis/images/1643
 Web Developer | UI/UX Designer | Google Certified IT Support Professional
 ------------------------------------------------------------------------
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Lithuania
 * ✉️  You can contact me at [lifeofkingk@gmail.com](mailto:lifeofkingk@gmail.com)
 * 🧠  I'm currently learning as much as I possibly can..😅
 * 🤝  I'm open to collaborating on Web Design and UI/UX projects
